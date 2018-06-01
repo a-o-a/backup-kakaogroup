@@ -1,4 +1,8 @@
 # backup kakaogroup
+
+**<알림> 카카오그룹이 2018년 4월 27일로 종료함에 따라 이 확장프로그램은 더이상 동작하지 않습니다.**
+
+---
 카카오 그룹을 백업하는 구글 크롬 확장(chrome extension) 프로그램입니다.
 <br>PC 카카오그룹 (https://group.kakao.com/) 에서 동작합니다.
 
